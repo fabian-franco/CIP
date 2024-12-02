@@ -4,7 +4,7 @@ Se enfoca en entender qué sucedió. Resume datos históricos para proporcionar 
 - **Ejemplo**: Una empresa revisa las ventas del último trimestre mediante un dashboard para identificar qué productos tuvieron mayor demanda.
 
 ### 2. **Analítica Diagnóstica**
-Por otro lado Entender por qué sucedió algo. Examina datos históricos en profundidad para identificar patrones o causas.
+Por otro lado busca entender por qué sucedió algo. Examina datos históricos en profundidad para identificar patrones o causas.
 - **Ejemplo**: Un minorista detecta una caída en las ventas de un producto específico y realiza un análisis para descubrir que se debió a problemas en la cadena de suministro.
 
 ### 3. **Analítica Predictiva**
