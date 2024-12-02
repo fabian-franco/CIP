@@ -1,4 +1,4 @@
-# Definiones
+# Definiciones
 
 ## Dato
 
