@@ -3,4 +3,5 @@
 2. [Tipos de  analitica de datos](/tipos_analitica_datos.md)
 3. [Ejercicio tipos de analitica de datos](/ejercicio_tipos_analitica_datos.md)
 4. [Notación matematica ejercicio](/notacion_matematica_ejercicio.md)
-5. [Ejercicios de python clase 2](/ejercicios_python.md)
+5. [Ejercicios de python clase 2: Python basico](/ejercicios_python_clase_2.md)
+6. [Ejercicios de python clase 3: Numpy](/ejercicios_python_clase_3.md)
