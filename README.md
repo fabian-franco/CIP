@@ -5,3 +5,4 @@
 4. [Notación matematica ejercicio](/notacion_matematica_ejercicio.md)
 5. [Ejercicios de python clase 2: Python basico](/ejercicios_python_clase_2.md)
 6. [Ejercicios de python clase 3: Numpy](/ejercicios_python_clase_3.md)
+7. [Clase 4: Git y Github](/clase4-git-github.md)
