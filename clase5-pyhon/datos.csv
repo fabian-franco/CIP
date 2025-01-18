@@ -1,0 +1,41 @@
+C digo,Apellidos,Nombres,G nero,Edad,Fecha de Ingreso,Puesto,Ubicaci n,Sueldo Base,Bonificaci n,Total
+1,Mazariegos,Rene,M,19,1/01/2007,Cajero,105,2400.00,1000.00,3400.00
+2,Ramirez,Gladys,,35,1/01/2008,Personal de servicio,107,2300.00,1000.00,3300.00
+3,Ortiz,Silvia,F,42,1/06/2008,Gerente T,302,3500.00,1000.00,4500.00
+4,Alvarado,Maria,F,22,7/07/2008,Personal de servicio,107,2300.00,1000.00,3300.00
+5,Perez,Isabel,F,38,9/12/2008,Supervisor,205,2900.00,1000.00,3900.00
+6,Mancilla,Leonardo,M,29,1/01/2009,Cajero,105,2200.00,1000.00,3200.00
+7,Lorenzana,Cesar,,37,1/01/2008,Supervisor,208,2800.00,1000.00,3800.00
+8,Ortiz,Alejandro,M,25,1/12/2009,Personal de servicio,108,2200.00,1000.00,3200.00
+9,Arevalo,Daniel,,24,1/06/2009,Personal de servicio,107,2200.00,1000.00,3200.00
+10,Morales,Naomi,F,25,1/06/2009,Personal de servicio,108,2200.00,1000.00,3200.00
+11,Barrios,Yolanda,F,19,1/01/2010,,105,2200.00,1000.00,3200.00
+12,Paniagua,Lisbeth,F,21,1/01/2011,Personal de servicio,108,2200.00,1000.00,3200.00
+13,Sandoval,David,M,22,1/06/2009,Cajero,105,2200.00,1000.00,3200.00
+14,Flores,Hector,M,18,1/01/2010,Personal de servicio,108,2200.00,1000.00,3200.00
+15,Jacobo,Amarilis,F,39,1/06/2008,Gerente T,302,3500.00,1000.00,4500.00
+16,Ceron,Fabricio,M,22,1/10/2011,Personal de servicio,107,2200.00,1000.00,3200.00
+17,Paz,Abigail,F,21,1/01/2009,Personal de servicio,108,2200.00,1000.00,3200.00
+18,Ruiz,Maria,F,28,1/12/2009,Personal de servicio,107,2200.00,1000.00,3200.00
+19,Miranda,Andrea,F,31,1/06/2009,Personal de servicio,108,2200.00,1000.00,3200.00
+20,Barrios,Rosa,F,19,1/01/2008,Cajero,105,2300.00,1000.00,3300.00
+21,Pacheco,Lucrecia,F,35,9/12/2008,Supervisor,205,2900.00,1000.00,3900.00
+22,Ardon,Pablo,M,22,1/01/2009,,107,2200.00,1000.00,3200.00
+23,Cetino,Alvaro,M,30,7/07/2008,Contador,202,2500.00,1000.00,3500.00
+24,Rios,Jenner,M,32,1/06/2008,Contador,202,2500.00,1000.00,3500.00
+25,Medina,Karla,F,38,1/01/2007,Gerente T,303,4000.00,1000.00,5000.00
+26,Bonilla,Juan,M,21,7/07/2008,Personal de servicio,107,2300.00,1000.00,3300.00
+27,Carrillo,Mario,M,34,9/12/2008,Supervisor,205,2900.00,1000.00,3900.00
+28,Fern ndez,Magdalena,F,20,1/01/2009,Cajero,105,2200.00,1000.00,3200.00
+29,M ndez,Teresa,F,34,1/01/2008,Supervisor,208,2800.00,1000.00,3800.00
+30,Cort z,Leticia,F,22,1/12/2009,Personal de servicio,108,2200.00,1000.00,3200.00
+31,Ortiz,Gabriel,M,27,1/06/2009,Personal de servicio,107,2200.00,1000.00,3200.00
+32,Zambrano,Gabriela,F,25,1/06/2009,Personal de servicio,108,2200.00,1000.00,3200.00
+33,Barrios,Federico,M,23,1/01/2010,Cajero,105,2200.00,1000.00,3200.00
+34,Ubeda,Marta,F,24,1/01/2011,Personal de servicio,108,2200.00,1000.00,3200.00
+35,Barrios,Claudia,F,25,1/06/2009,Cajero,105,2200.00,1000.00,3200.00
+36,Cardona,Olivia,,30,1/01/2010,Personal de servicio,108,2200.00,1000.00,3200.00
+37,Morales,Perla,F,39,1/01/2006,Gerente G,307,5200.00,1000.00,6200.00
+38,Pineda,Juan,M,21,15/10/2011,Cajero,105,2200.00,1000.00,3200.00
+39,Molina,Pedro,M,36,1/01/2008,Supervisor,208,2800.00,1000.00,3800.00
+40,Suarez,Manolo,M,20,1/12/2009,Personal de servicio,108,2200.00,1000.00,3200.00
