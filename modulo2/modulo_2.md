@@ -16,6 +16,6 @@ En la segunda parte se abordaron los modelos de Random Forest y Desición Trees,
 
 Ademas se uso la libreria de `sklearn` para la creación de los modelos.
 
-El trabajo final se  puede encontrar  en el notebook, en el archivo FirstModels.ipynb
+El trabajo final se  puede encontrar  en el notebook, en el archivo `FirstModels.ipynb`
 
 ![Machine Learning](./img/machine_learning.png)
